@@ -1,5 +1,8 @@
 {
-  "metaTitle": "Meine Webseite",
+  "metaTitle":{
+    "title":"Meine Webseite",
+    "description": "Wir sind ein leidenschaftliches Team, das Web-Erlebnisse erstellt."
+  },
   "title": "Startseite",
   "description": "Wir sind ein leidenschaftliches Team, das Web-Erlebnisse erstellt."
 }
